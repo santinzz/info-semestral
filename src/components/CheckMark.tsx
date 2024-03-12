@@ -14,28 +14,28 @@ export const CheckMark = ({ className }: { className: string }) => {
       <path
         fill='none'
         stroke='#18193f'
-        stroke-linecap='round'
-        stroke-linejoin='round'
-        stroke-miterlimit='10'
-        stroke-width='3'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth='3'
         d='M16.23,24.5c1.753,1.166,3.402,2.851,5,5c3.027-4,6.36-7.333,10-10'
       ></path>
       <path
         fill='none'
         stroke='#18193f'
-        stroke-linecap='round'
-        stroke-linejoin='round'
-        stroke-miterlimit='10'
-        stroke-width='3'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth='3'
         d='M14.637,37.999l-2.977,0.138c-1.011,0.047-1.843-0.785-1.796-1.796l0.138-2.977c0.031-0.67-0.331-1.298-0.927-1.606L6.428,30.39	c-0.899-0.465-1.203-1.601-0.657-2.453l1.608-2.509c0.362-0.565,0.362-1.289,0-1.854l-1.608-2.509	c-0.546-0.852-0.241-1.988,0.657-2.453l2.647-1.368c0.596-0.308,0.958-0.935,0.927-1.606l-0.138-2.977	c-0.047-1.011,0.785-1.843,1.796-1.796l2.977,0.138c0.67,0.031,1.298-0.331,1.606-0.927l1.368-2.647	c0.465-0.899,1.601-1.203,2.453-0.657l2.509,1.608c0.565,0.362,1.289,0.362,1.854,0l2.509-1.608'
       ></path>
       <path
         fill='none'
         stroke='#18193f'
-        stroke-linecap='round'
-        stroke-linejoin='round'
-        stroke-miterlimit='10'
-        stroke-width='3'
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        strokeMiterlimit='10'
+        strokeWidth='3'
         d='M32.363,11.003l2.977-0.138c1.011-0.047,1.843,0.785,1.796,1.796l-0.138,2.977c-0.031,0.67,0.331,1.298,0.927,1.606l2.647,1.368	c0.899,0.465,1.203,1.601,0.657,2.453l-1.608,2.509c-0.362,0.565-0.362,1.289,0,1.854l1.608,2.509	c0.546,0.852,0.241,1.988-0.657,2.453l-2.647,1.368c-0.596,0.308-0.958,0.935-0.927,1.606l0.138,2.977	c0.047,1.011-0.785,1.843-1.796,1.796l-2.977-0.138c-0.67-0.031-1.298,0.331-1.606,0.927l-1.368,2.647	c-0.465,0.899-1.601,1.203-2.453,0.657l-2.509-1.608c-0.565-0.362-1.289-0.362-1.854,0l-2.509,1.608'
       ></path>
     </svg>
